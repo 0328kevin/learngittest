@@ -2,4 +2,4 @@ git is a free software
 Git is a distributed version control system
 Git is a free software distributed under the GPL
 Git tracks changes of files
-issue-001
+create a new branch is quick
