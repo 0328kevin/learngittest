@@ -6,3 +6,4 @@ create a new branch is quick and simple
 new branch dev has been created
 working ......
 work done
+master 1
